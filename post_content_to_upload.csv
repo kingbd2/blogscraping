@@ -1,35 +1,35 @@
-title,subtitle,author
-Here I am…,example,1
-The naming of things,example,1
-A few words,example,1
-"Mirror, Mirror",example,1
-Home. Safe.,example,1
-Give thanks.,example,1
-Family.,example,1
-What’s cooking.,example,1
-Hello old friend.,example,1
-I wished I could fly.,example,1
-Stay.,example,1
-Shaken.,example,1
-April.,example,1
-For George.,example,1
-Favourite photographs.,example,1
-Little Boxes.,example,1
-"Food, love, etc.",example,1
-Family recipes.,example,1
-Something about faith.,example,1
-Where it goes.,example,1
-More than words.,example,1
-In progress.,example,1
-What I’m reading.,example,1
-The land of stones.,example,1
-Spark.,example,1
-Burn.,example,1
-Washing dishes.,example,1
-Tiny cracks,example,1
-Mary’s Island,example,1
-Here.,example,1
-Knowing.,example,1
-Run.,example,1
-Gifts,example,1
-Bloom,example,1
+title,subtitle,author,publish_on,category,slug,symbol,byline,background_image
+Here I am…,example,2,2011-07-13,Lilac Elephant,here-i-am,A,A piece by Abiella Schneider-Friedman,https://abiinafrica.files.wordpress.com/2011/07/dsc0105.jpg?w=750
+The naming of things,example,2,2011-07-18,Lilac Elephant,the-naming-of-things,A,A piece by Abiella Schneider-Friedman,https://abiinafrica.files.wordpress.com/2012/12/dsc0367.jpg?w=600&h=398
+A few words,example,2,2011-10-30,Lilac Elephant,a-few-words,A,A piece by Abiella Schneider-Friedman,https://abiinafrica.files.wordpress.com/2011/10/dogs.jpg?w=750
+"Mirror, Mirror",example,2,2011-11-05,Lilac Elephant,mirror-mirror,A,A piece by Abiella Schneider-Friedman,https://abiinafrica.files.wordpress.com/2011/11/hornbill.jpg?w=750
+Home. Safe.,example,2,2011-11-23,Lilac Elephant,home-safe,A,A piece by Abiella Schneider-Friedman,https://abiinafrica.files.wordpress.com/2011/11/leopard.jpg?w=750
+Give thanks.,example,2,2011-12-04,Lilac Elephant,give-thanks,A,A piece by Abiella Schneider-Friedman,https://abiinafrica.files.wordpress.com/2011/12/giraffe.jpg?w=750
+Family.,example,2,2011-12-15,Lilac Elephant,family,A,A piece by Abiella Schneider-Friedman,https://abiinafrica.files.wordpress.com/2011/12/look-my-way.jpg?w=750
+What’s cooking.,example,2,2012-01-04,Lilac Elephant,whats-cooking,A,A piece by Abiella Schneider-Friedman,https://abiinafrica.files.wordpress.com/2012/01/decemberroller.jpg?w=750
+Hello old friend.,example,2,2012-02-19,Lilac Elephant,hello-old-friend,A,A piece by Abiella Schneider-Friedman,https://abiinafrica.files.wordpress.com/2012/02/decemberdog.jpg?w=750
+I wished I could fly.,example,2,2012-02-23,Lilac Elephant,i-wished-i-could-fly,A,A piece by Abiella Schneider-Friedman,https://abiinafrica.files.wordpress.com/2012/02/waitingfisheagle.jpg?w=750
+Stay.,example,2,2012-03-04,Lilac Elephant,stay,A,A piece by Abiella Schneider-Friedman,https://abiinafrica.files.wordpress.com/2012/03/peekingelephant.jpg?w=750
+Shaken.,example,2,2012-03-15,Lilac Elephant,shaken,A,A piece by Abiella Schneider-Friedman,https://abiinafrica.files.wordpress.com/2012/03/eleinthesun.jpg?w=750
+April.,example,2,2012-05-04,Lilac Elephant,april,A,A piece by Abiella Schneider-Friedman,https://abiinafrica.files.wordpress.com/2012/05/kudukill42.jpg?w=1014
+For George.,example,2,2012-05-13,Lilac Elephant,for-george,A,A piece by Abiella Schneider-Friedman,https://abiinafrica.files.wordpress.com/2012/05/georgeandme.jpg?w=750
+Favourite photographs.,example,2,2012-09-01,Lilac Elephant,favourite-photographs,A,A piece by Abiella Schneider-Friedman,https://abiinafrica.files.wordpress.com/2012/09/littlelion1.jpg?w=750
+Little Boxes.,example,2,2012-11-16,Lilac Elephant,little-boxes,A,A piece by Abiella Schneider-Friedman,https://abiinafrica.files.wordpress.com/2012/11/dsc0345.jpg?w=398&h=600
+"Food, love, etc.",example,2,2012-12-12,Lilac Elephant,food-love-etc,A,A piece by Abiella Schneider-Friedman,https://abiinafrica.files.wordpress.com/2012/12/dsc0326.jpg?w=600&h=486
+Family recipes.,example,2,2013-01-24,Lilac Elephant,family-recipes,A,A piece by Abiella Schneider-Friedman,https://abiinafrica.files.wordpress.com/2013/01/dsc_4531.jpg?w=750?w=600
+Something about faith.,example,2,2013-04-07,Lilac Elephant,something-about-faith,A,A piece by Abiella Schneider-Friedman,https://abiinafrica.files.wordpress.com/2013/04/damaraland.jpg?w=750
+Where it goes.,example,2,2013-06-13,Lilac Elephant,where-it-goes,A,A piece by Abiella Schneider-Friedman,https://abiinafrica.files.wordpress.com/2013/05/freshcinbuns.jpg?w=750
+More than words.,example,2,2013-09-26,Lilac Elephant,more-than-words,A,A piece by Abiella Schneider-Friedman,
+In progress.,example,2,2014-03-05,Lilac Elephant,in-progress,A,A piece by Abiella Schneider-Friedman,https://abiinafrica.files.wordpress.com/2014/03/kudukill5.jpg?w=750
+What I’m reading.,example,2,2014-05-04,Lilac Elephant,what-im-reading,A,A piece by Abiella Schneider-Friedman,https://abiinafrica.files.wordpress.com/2014/05/dscn0401.jpg?w=750
+The land of stones.,example,2,2014-10-20,Lilac Elephant,the-land-of-stones,A,A piece by Abiella Schneider-Friedman,
+Spark.,example,2,2014-10-28,Lilac Elephant,spark,A,A piece by Abiella Schneider-Friedman,
+Burn.,example,2,2014-11-06,Lilac Elephant,burn,A,A piece by Abiella Schneider-Friedman,
+Washing dishes.,example,2,2014-11-11,Lilac Elephant,washing-dishes,A,A piece by Abiella Schneider-Friedman,https://abiinafrica.files.wordpress.com/2014/11/img_0045.jpg?w=750
+Tiny cracks,example,2,2015-04-27,Lilac Elephant,tiny-cracks,A,A piece by Abiella Schneider-Friedman,
+Mary’s Island,example,2,2015-07-21,Lilac Elephant,marys-island,A,A piece by Abiella Schneider-Friedman,
+Here.,example,2,2015-09-21,Lilac Elephant,here,A,A piece by Abiella Schneider-Friedman,
+Knowing.,example,2,2016-07-12,Lilac Elephant,knowing,A,A piece by Abiella Schneider-Friedman,https://abiinafrica.files.wordpress.com/2016/07/parents-walking.jpg?w=750?w=640
+Run.,example,2,2016-07-25,Lilac Elephant,run,A,A piece by Abiella Schneider-Friedman,
+Gifts,example,2,2016-10-19,Lilac Elephant,gifts,A,A piece by Abiella Schneider-Friedman,
+Bloom,example,2,2017-05-29,Lilac Elephant,bloom,A,A piece by Abiella Schneider-Friedman,https://abiinafrica.files.wordpress.com/2017/05/door-in-italy.jpg?w=750?w=750
