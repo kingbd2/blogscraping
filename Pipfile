@@ -1,9 +1,12 @@
 [[source]]
+
 url = "https://pypi.org/simple"
 verify_ssl = true
 name = "pypi"
 
+
 [packages]
+
 "beautifulsoup4" = "*"
 requests = "*"
 jupyterlab = "*"
@@ -13,7 +16,11 @@ pandas = "*"
 python-dateutil = "*"
 python-slugify = "*"
 
+
 [dev-packages]
 
+
+
 [requires]
+
 python_version = "3.6"
